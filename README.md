@@ -1,2 +1,2 @@
-# Netflix-Landing-Page-Clone\
+# Netflix-Landing-Page-Clone \
 # Live view: https://netflixpageclone.netlify.app/ 
